@@ -287,3 +287,118 @@ let values = Array.of(7, 8, 9);
 values[0] = 420;
 console.log(values[0]);
 */
+/*
+let values = Array.of(0, 1, 2, 3);
+*/
+/*
+console.log(values[3]);
+values[3] = 69;
+console.log(values[3]);
+console.log(values[4]);
+values[4] = 42;
+
+console.log(values[4]);
+console.log(values.push(7));
+console.log(values);
+*/
+/*
+values.push(7);
+console.log(values);
+values.push(8);
+console.log(values);
+values.push(9);
+console.log(values);
+values.push(10);
+console.log(values);
+values.push(11);
+console.log(values);
+values.push(12);
+console.log(values);
+values.push(14);
+console.log(values);
+values.push(15);
+console.log(values);
+values.push(16);
+console.log(values);
+values.push(17);
+console.log(values);
+*/
+/*
+const values = Array.of(7, 8, 9);
+*/
+/*
+let dropped = values.pop();
+
+console.log(values);
+console.log(dropped);
+*/
+//1
+/*
+let dropped = values.pop();
+console.log(values);
+console.log(dropped);
+*/
+//2
+/*
+let dropped = values.pop();
+console.log(dropped);
+console.log(values);
+*/
+//3
+/*
+let dropped = values.pop();
+console.log(values);
+console.log(dropped);
+*/
+//4
+/*
+let dropped = values.pop();
+console.log(dropped);
+console.log(values);
+*/
+//5
+/*
+let dropped = values.pop();
+console.log(dropped);
+console.log(values);
+*/
+//6
+/*
+let dropped = values.pop();
+console.log(dropped);
+console.log(values);
+*/
+//7
+/*
+let dropped = values.pop();
+console.log(dropped);
+console.log(values);
+*/
+//8
+/*
+let dropped = values.pop();
+console.log(dropped);
+console.log(values);
+*/
+//9
+/*
+let dropped = values.pop();
+console.log(dropped);
+console.log(values);
+*/
+//10
+/*
+let dropped = values.pop();
+console.log(dropped);
+console.log(values);
+*/
+/*
+array = [7, 8, 9];
+let shifted = array.shift();
+console.log(array);
+console.log(shifted);
+*/
+
+let array = [7, 8, 9];
+array.unshift("Copa", "Copa");
+console.log(array);
