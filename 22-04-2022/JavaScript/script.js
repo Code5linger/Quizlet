@@ -398,7 +398,9 @@ let shifted = array.shift();
 console.log(array);
 console.log(shifted);
 */
-
+/*
 let array = [7, 8, 9];
-array.unshift("Copa", "Copa");
-console.log(array);
+let added = array.unshift("Copa", "Copa");
+console.log(array, added);
+console.log(added);
+*/
