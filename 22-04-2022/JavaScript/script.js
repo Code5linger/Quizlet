@@ -108,10 +108,182 @@ console.log(undef);
 let nullValue = null;
 console.log(nullValue);
 */
-
+/*
 let obj = {
   name: "copa",
   age: 69,
   job: true,
 };
 console.log(obj.name);
+*/
+/*
+let array = [0, 1, 2, 3];
+console.log(array[0]);
+console.log(array[1]);
+console.log(array[2]);
+console.log(array[3]);
+console.log(array[4]);
+*/
+/*
+let values = Array.of(0, 1, 2, 3);
+console.log(values[0]);
+console.log(values[1]);
+console.log(values[2]);
+console.log(values[3]);
+console.log(values[4]);
+*/
+//1
+/*
+let values = Array.of(0, 1, 2, 3);
+
+console.log(values[0]);
+console.log(values[1]);
+console.log(values[4]);
+*/
+//2
+/*
+let values = Array.of(0, 1, 2, 3);
+
+console.log(values[0]);
+console.log(values[3]);
+console.log(values[4]);
+*/
+//3
+/*
+let values = Array.of(1, 2, 3, 4);
+
+console.log(values[0]);
+console.log(values[3]);
+console.log(values[4]);
+*/
+//4
+/*
+let values = Array.of(0, 1, 2, 3);
+
+console.log(values[0]);
+console.log(values[1]);
+console.log(values[4]);
+*/
+//5
+/*
+let values = Array.of(0, 1, 2, 3);
+
+console.log(values[0]);
+console.log(values[1]);
+console.log(values[4]);
+*/
+//6
+/*
+let values = Array.of(0, 1, 2, 3);
+
+console.log(values[0]);
+console.log(values[2]);
+console.log(values[4]);
+*/
+//7
+/*
+let values = Array.of(0, 1, 2, 3);
+
+console.log(values[0]);
+console.log(values[1]);
+console.log(values[4]);
+*/
+//8
+/*
+let values = Array.of(0, 1, 2, 3);
+
+console.log(values[0]);
+console.log(values[2]);
+console.log(values[4]);
+*/
+//9
+/*
+let values = Array.of(0, 1, 2, 3);
+
+console.log(values[0]);
+console.log(values[1]);
+console.log(values[4]);
+*/
+//10
+/*
+let values = Array.of(0, 1, 2, 3);
+
+let array = [0, 1, 2, 3];
+*/
+/*
+console.log(values[0]);
+console.log(values[1]);
+console.log(values[2]);
+console.log(values[4]);
+*/
+/*
+console.log(typeof values);
+console.log(typeof array);
+
+console.log(Array.isArray(values));
+console.log(Array.isArray(array));
+*/
+//1
+/*
+console.log(Array.isArray(values));
+console.log(Array.isArray(array));
+*/
+//2
+/*
+console.log(Array.isArray(values));
+console.log(Array.isArray(array));
+*/
+//3
+/*
+console.log(Array.isArray(values));
+console.log(Array.isArray(array));
+*/
+//4
+/*
+console.log(Array.isArray(values));
+console.log(Array.isArray(array));
+*/
+//5
+/*
+console.log(Array.isArray(values));
+console.log(Array.isArray(array));
+*/
+//6
+/*
+console.log(Array.isArray(values));
+console.log(Array.isArray(array));
+*/
+//7
+/*
+console.log(Array.isArray(values));
+console.log(Array.isArray(array));
+*/
+//8
+/*
+console.log(Array.isArray(values));
+console.log(Array.isArray(array));
+*/
+//9
+/*
+console.log(Array.isArray(values));
+console.log(Array.isArray(array));
+*/
+//10
+/*
+console.log(Array.isArray(values));
+console.log(Array.isArray(array));
+*/
+/*
+const array = [0, 1, 2, 3, 4];
+
+array[0] = 69;
+console.log(array[0]);
+console.log(array[1]);
+console.log(array[4]);
+console.log(array[6]);
+
+let values = Array.of(7, 8, 9);
+
+values[0] = 420;
+console.log(values[0]);
+*/
