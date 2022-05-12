@@ -51,3 +51,30 @@ console.log("--T--");
 console.log(typeof num);
 console.log((num = num.toString()));
 console.log(typeof num);
+
+stringTo = "123.45";
+console.log(typeof stringTo);
+console.log((stringToFloat = Number.parseFloat(stringTo)));
+console.log(typeof stringToFloat);
+console.log((stringToNumber = Number.parseInt(stringTo)));
+console.log(typeof stringToNumber);
+
+let bool = false;
+console.log(bool);
+console.log(typeof bool);
+
+bool = !bool;
+console.log(bool);
+
+let a;
+console.log(a);
+let b = null;
+console.log(b);
+
+let person = {
+  fname: "Copa",
+  lnam: "Samsu",
+};
+
+console.log(person);
+console.log(person.fname, person.lnam);
