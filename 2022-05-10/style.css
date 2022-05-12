@@ -2,3 +2,13 @@ body {
   background-color: black;
   color: white;
 }
+
+#cta {
+  width: 467px;
+  padding: 0px;
+}
+.macOS-safari #headlineTxt,
+.macOS-firefox #headlineTxt,
+.macOS-chrome #headlineTxt {
+  font-size: 84px !important;
+}
