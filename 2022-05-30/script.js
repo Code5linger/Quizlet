@@ -1,3 +1,4 @@
+/*
 let n = 3,
   j = 4;
 
@@ -10,3 +11,10 @@ let x = 2,
 
 x = ++y + z++;
 console.log("x = " + x, "y = " + y, "z = " + z); //x = 5 y = 4 z = 2
+*/
+
+let a = 10,
+  b = 15;
+
+x = a > b ? a : b;
+console.log(x); // x=15
