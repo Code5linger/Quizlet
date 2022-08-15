@@ -6,7 +6,7 @@ let bool = "False";
 
 console.log(testNum, testString, bool);
 */
-
+/*
 var testNum = 15,
   testString = "AD",
   bool = "True";
@@ -31,3 +31,23 @@ const pi = "3.1416";
 let error = "Boom💥";
 
 console.log(error);
+*/
+
+let num = 7;
+console.log(num);
+console.log(typeof num);
+
+let string = "Test";
+console.log(typeof string);
+
+num = num + 1;
+console.log(num);
+
+num = num - 5;
+console.log(num);
+
+num = num % 2;
+console.log(num);
+
+num++;
+console.log(num);
