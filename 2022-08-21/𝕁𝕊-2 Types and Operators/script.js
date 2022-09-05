@@ -27,9 +27,13 @@ let string = 'lor"e${test}`m \\ip"\nsum';
 console.log(string);
 console.log(test);
 */
-
+/*
 let fname = "CodeSlinger";
 
-let message = `Hello! ${fname}`;
+let message = `Hello! ${fname}` + " Copa";
 
-console.log(message);
+console.log(message.toLowerCase(message));
+console.log(message.toUpperCase(message));
+console.log(message.substring(22));
+console.log(message.length);
+*/
