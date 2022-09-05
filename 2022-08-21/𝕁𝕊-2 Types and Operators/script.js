@@ -52,10 +52,25 @@ console.log(typeof num);
 let numb = Number.parseInt("22");
 console.log(typeof numb);
 */
-
+/*
 let bool = true;
 console.log(bool);
 console.log(typeof bool);
 bool = !bool;
 console.log(bool);
 console.log(typeof bool);
+*/
+/*
+let saved = 69;
+saved = null;
+
+console.log(saved);
+*/
+
+let person = {
+  fname: "Copa",
+  lname: "Samsu",
+};
+
+console.log(typeof person);
+console.log(person.fname);
