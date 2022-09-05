@@ -37,3 +37,25 @@ console.log(message.toUpperCase(message));
 console.log(message.substring(22));
 console.log(message.length);
 */
+/*
+let num = 17;
+console.log(typeof num);
+
+num = num.toString();
+console.log(typeof num);
+*/
+/*
+let num = 22;
+
+console.log(typeof num);
+
+let numb = Number.parseInt("22");
+console.log(typeof numb);
+*/
+
+let bool = true;
+console.log(bool);
+console.log(typeof bool);
+bool = !bool;
+console.log(bool);
+console.log(typeof bool);
